@@ -14,9 +14,9 @@ a = a / 10
 
 print(a)
 
-# divide B by 50
+# Multiply B by 50
 
-b = b / 50
+b = b * 50
 
 print(b)
 
